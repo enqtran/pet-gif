@@ -1,2 +1,2 @@
 # pet-gif
-pet-gif
+Run cmd: npm start 
